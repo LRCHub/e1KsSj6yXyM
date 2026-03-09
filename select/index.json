@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "独歩",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-03-09T16:09:30.735739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "独歩",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_独歩_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "独歩",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_独歩_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "独歩",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/03_独歩_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "独歩",
+      "artist": "Wagakki Band (和楽器バンド)",
+      "has_synced": true,
+      "path": "select/04_独歩_Wagakki_Band_(和楽器バンド).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "独歩",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/05_独歩_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doppo / 独歩",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_Doppo___独歩_Wagakki_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "独歩",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_独歩_レトロリロン.txt"
+    }
+  ]
+}
